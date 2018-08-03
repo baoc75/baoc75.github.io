@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://hotro.lop67.tk/sitemap.xml
+Disallow: /search/?q=

@@ -1,0 +1,12 @@
+- name:
+  link: 'https://www.facebook.com/profile.php?id=925821380767917'
+  new_window: true
+  social_icon: Facebook
+- name:
+  link: 'https://plus.google.com/+lop67tk'
+  social_icon: Google Plus
+  new_window: true
+- name:
+  link: /feed.xml
+  social_icon: RSS
+  new_window: true
