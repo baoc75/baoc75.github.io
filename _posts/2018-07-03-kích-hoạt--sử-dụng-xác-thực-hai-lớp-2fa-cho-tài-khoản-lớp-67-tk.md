@@ -1,13 +1,12 @@
 ---
-date: 2018-07-03 00:00:00
 title: Kích hoạt & sử dụng xác thực hai lớp (2FA) cho Tài Khoản Lớp 6/7 TK
-video_id:
-description: >-
-  Hướng dẫn cách kích hoạt và sử dụng xác thực hai lớp (2FA) cho Tài Khoản Lớp
-  6/7 TK
-type: Document
+date: 2018-07-03 07:00:00 +07:00
 categories:
-  - Tài Khoản
+- Tài Khoản
+video_id: 
+description: Hướng dẫn cách kích hoạt và sử dụng xác thực hai lớp (2FA) cho Tài Khoản
+  Lớp 6/7 TK
+type: Document
 set: tạo-lập-tài-khoản
 set_order: 1
 ---

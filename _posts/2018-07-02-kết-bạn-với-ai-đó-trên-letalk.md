@@ -1,11 +1,11 @@
 ---
-date: 2018-07-02 00:00:00
 title: Kết bạn với ai đó trên Letalk
-video_id:
-description: 'Hướng dẫn cách kết bạn, thêm bạn, thêm vào danh bạ trong Letalk'
-type: Document
+date: 2018-07-02 07:00:00 +07:00
 categories:
-  - Letalk
+- Letalk
+video_id: 
+description: Hướng dẫn cách kết bạn, thêm bạn, thêm vào danh bạ trong Letalk
+type: Document
 set: getting-started
 set_order: 1
 ---

@@ -1,11 +1,11 @@
 ---
-date: 2018-07-28 11:00:00
 title: Đặt biểu tượng Letalk ra ngoài màn hình trên điện thoại
-video_id:
+date: 2018-07-28 18:00:00 +07:00
+categories:
+- Letalk
+video_id: 
 description: Hướng dẫn cách đặt biểu tượng Letalk ra ngoài màn hình trên điện thoại
 type: Document
-categories:
-  - Letalk
 set: cá-nhân-hóa-tài-khoản
 set_order: 1
 ---

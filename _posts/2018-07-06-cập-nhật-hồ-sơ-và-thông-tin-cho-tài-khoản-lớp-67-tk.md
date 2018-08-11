@@ -1,11 +1,12 @@
 ---
-date: 2018-07-06 00:00:00
 title: Cập nhật hồ sơ và thông tin cho Tài Khoản Lớp 6/7 TK
-video_id:
-description: Hướng dẫn cách cập nhật hồ sơ và thông tin cho cho Tài Khoản Lớp 6/7 TK
-type: Document
+date: 2018-07-06 07:00:00 +07:00
 categories:
-  - Tài Khoản
+- Tài Khoản
+video_id: 
+description: Hướng dẫn cách cập nhật hồ sơ và thông tin cho cho Tài Khoản Lớp 6/7
+  TK
+type: Document
 set: tạo-lập-tài-khoản
 set_order: 1
 ---

@@ -1,11 +1,11 @@
 ---
-date: 2018-07-02 00:00:00
 title: Tìm kiếm liên lạc và bạn bè trong danh bạ Letalk
-video_id:
+date: 2018-07-02 07:00:00 +07:00
+categories:
+- Letalk
+video_id: 
 description: Hướng dẫn cách tìm kiếm bạn bè trong danh bạ trên Letalk
 type: Document
-categories:
-  - Letalk
 set: getting-started
 set_order: 1
 ---

@@ -1,13 +1,12 @@
 ---
-date: 2018-07-02 00:00:00
 title: Tạo một Tài Khoản Lớp 6/7 TK
-video_id:
-description: >-
-  Hướng dẫn cách tạo tài khoản Lớp 6/7 TK để sử dụng các sản phẩm khác như Lớp
-  6/7 Hỏi Đáp, Letalk,..
-type: Document
+date: 2018-07-02 07:00:00 +07:00
 categories:
-  - Tài Khoản
+- Tài Khoản
+video_id: 
+description: Hướng dẫn cách tạo tài khoản Lớp 6/7 TK để sử dụng các sản phẩm khác
+  như Lớp 6/7 Hỏi Đáp, Letalk,..
+type: Document
 set: tạo-lập-tài-khoản
 set_order: 1
 ---

@@ -1,13 +1,12 @@
 ---
-date: 2018-07-07 00:00:00
-title: 'Cập nhật thông tin đăng nhập, đổi mật khẩu, email cho Tài Khoản Lớp 6/7 TK'
-video_id:
-description: >-
-  Hướng dẫn cách cập nhật thông tin đăng nhập, đổi mật khẩu, email cho Tài Khoản
-  Lớp 6/7 TK
-type: Document
+title: Cập nhật thông tin đăng nhập, đổi mật khẩu, email cho Tài Khoản Lớp 6/7 TK
+date: 2018-07-07 07:00:00 +07:00
 categories:
-  - Tài Khoản
+- Tài Khoản
+video_id: 
+description: Hướng dẫn cách cập nhật thông tin đăng nhập, đổi mật khẩu, email cho
+  Tài Khoản Lớp 6/7 TK
+type: Document
 set: tạo-lập-tài-khoản
 set_order: 1
 ---

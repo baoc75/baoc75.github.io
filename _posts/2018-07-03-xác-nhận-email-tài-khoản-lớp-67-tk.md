@@ -1,11 +1,12 @@
 ---
-date: 2018-07-03 00:00:00
 title: Xác nhận email Tài Khoản Lớp 6/7 TK
-video_id:
-description: Hướng dẫn cách xác nhận email Tài Khoản Lớp 6/7 TK nhanh chóng và dễ dàng
-type: Document
+date: 2018-07-03 07:00:00 +07:00
 categories:
-  - Tài Khoản
+- Tài Khoản
+video_id: 
+description: Hướng dẫn cách xác nhận email Tài Khoản Lớp 6/7 TK nhanh chóng và dễ
+  dàng
+type: Document
 set: tạo-lập-tài-khoản
 set_order: 1
 ---

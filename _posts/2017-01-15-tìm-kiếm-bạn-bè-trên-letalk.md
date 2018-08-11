@@ -1,11 +1,11 @@
 ---
-date: 2017-01-15 00:00:00
 title: Tìm kiếm bạn bè trên Letalk
-video_id:
-description: 'Hướng dẫn cách tìm bạn bè và kết bạn, thêm vào danh bạ trong Letalk'
-type: Document
+date: 2017-01-15 07:00:00 +07:00
 categories:
-  - Letalk
+- Letalk
+video_id: 
+description: Hướng dẫn cách tìm bạn bè và kết bạn, thêm vào danh bạ trong Letalk
+type: Document
 set: getting-started
 set_order: 1
 ---

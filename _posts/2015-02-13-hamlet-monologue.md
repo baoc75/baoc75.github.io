@@ -1,8 +1,12 @@
 ---
-layout: post
 title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+date: 2015-02-13 00:00:00 +07:00
+tags:
+- books
+- shakespeare
+- test
+layout: post
+subtitle: "... or not to be?"
 ---
 
 To be, or not to be--that is the question:

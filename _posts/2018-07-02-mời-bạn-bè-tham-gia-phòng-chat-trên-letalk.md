@@ -1,11 +1,11 @@
 ---
-date: 2018-07-02 00:00:00
 title: Mời bạn bè tham gia phòng chat trên Letalk
-video_id:
+date: 2018-07-02 07:00:00 +07:00
+categories:
+- Letalk
+video_id: 
 description: Hướng dẫn cách để mời bạn bè tham gia phòng chat trên Letalk
 type: Document
-categories:
-  - Letalk
 set: getting-started-copy
 set_order: 1
 ---
