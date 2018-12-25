@@ -22,7 +22,7 @@ Trước khi kích hoạt xác thực hai lớp, bạn cần tải ứng dụng 
 
 Sau khi tải xong, bạn tiến hành các bước đăng ký tài khoản Authy.
 
-Một khi đã đăng ký thành công Authy, bạn đã sẵn sàng để kích hoạt xác thực hai lớp. Tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth){: target="_blank"}.
+Một khi đã đăng ký thành công Authy, bạn đã sẵn sàng để kích hoạt xác thực hai lớp. Tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth).
 
 
 ## Sử dụng
@@ -37,7 +37,7 @@ Ngay sau đó, sẽ có đoạn mã xuất hiện trên màn hình.
 Rồi bạn chỉ cần nhập đoạn mã vào khung yêu cầu nhập **Mã xác thực Authy** tại trang đăng nhập để có thể đăng nhập tài khoản.
 
 ## Vô hiệu hóa
-Để vô hiệu hóa/ngưng kích hoạt việc xác thực hai lớp trên tài khoản, tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth){: target="_blank"}.
+Để vô hiệu hóa/ngưng kích hoạt việc xác thực hai lớp trên tài khoản, tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth).
 
 Sau đó, bấm nút vô hiệu hóa và như vậy là bạn đã hủy kích hoạt xác thực hai lớp thành công. Lưu ý rằng bạn cũng có thể kích hoạt lại bất cứ lúc nào bạn muốn.
 #
