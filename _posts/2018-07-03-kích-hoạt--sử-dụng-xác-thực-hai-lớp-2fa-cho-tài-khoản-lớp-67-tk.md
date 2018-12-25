@@ -13,24 +13,24 @@ set_order: 1
 
 X&aacute;c thực hai lớp (2FA - Two Factor Authorization) l&agrave; một biện ph&aacute;p nhằm tăng cường th&ecirc;m lớp bảo mật cho t&agrave;i khoản. Thay v&igrave; chỉ sử dụng mật khẩu để đăng nhập t&agrave;i khoản như trước, ta phải nhập th&ecirc;m một m&atilde; x&aacute;c thực nữa. M&atilde; n&agrave;y được tự động tạo ra tr&ecirc;n c&aacute;c thiết bị kh&aacute;c của người d&ugrave;ng.
 
-## X&aacute;c nhận qua email
+## Kích hoạt
+Trước khi kích hoạt xác thực hai lớp, bạn cần tải ứng dụng Authy lên thiết bị mà bạn muốn nhận mã, có thể là điện thoại hoặc máy tính của bạn. Tải Authy cho các nền tảng:
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/capture-7.PNG)
 
-1. Truy cập v&agrave;o email m&agrave; t&agrave;i khoản bạn d&ugrave;ng để đăng k&yacute;.
-2. T&igrave;m thư được gửi từ no-reply@lop67.tk hoặc c&oacute; tựa đề "X&aacute;c nhận email t&agrave;i khoản".
-3. Bấm v&agrave;o đường link được gửi trong thư, hoặc sao ch&eacute;p l&ecirc;n thanh địa chỉ tr&igrave;nh duyệt rồi truy cập v&agrave;o.
-4. Một khi bạn đ&atilde; v&agrave;o đường link trong mail, t&agrave;i khoản đ&atilde; được x&aacute;c nhận.
+Sau khi tải xong, bạn tiến hành các bước đăng ký tài khoản Authy.
 
-**Lưu &yacute; quan trọng:** Bạn chỉ nhấp v&agrave;o thư nếu đường link được gửi từ địa chỉ email **no-reply@lop67.tk** để tr&aacute;nh bị lừa đảo lấy cắp t&agrave;i khoản. Đồng thời email sẽ kh&ocirc;ng bao giờ y&ecirc;u cầu bạn trả lời mật khẩu, th&ocirc;ng tin t&agrave;i khoản của m&igrave;nh, việc nhập th&ocirc;ng tin t&agrave;i khoản đều thực hiện th&ocirc;ng qua t&ecirc;n miền **lop67.tk**
+Một khi đã đăng ký thành công Authy, bạn đã sẵn sàng để kích hoạt xác thực hai lớp. Tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth){: target="_blank"}.
 
-## X&aacute;c nhận qua t&agrave;i khoản mạng x&atilde; hội
 
-Bạn cũng c&oacute; thể x&aacute;c nhận bằng c&aacute;ch đăng nhập t&agrave;i khoản Facebook, Google c&oacute; sử dụng email tr&ugrave;ng với email tr&ecirc;n T&agrave;i Khoản Lớp 6/7 TK.
+## Sử dụng
+Mỗi khi đăng nhập tài khoản, sau khi đăng nhập tài khoản, bạn sẽ được yêu cầu mã xác thực hai lớp. Để lấy mã xác thực này, bạn hãy mở ứng dụng Authy lên và bấm biểu tượng của Tài Khoản Lớp 6/7 TK.
 
-1. Truy cập v&agrave;o trang [X&aacute;c nhận email qua t&agrave;i khoản mạng x&atilde; hội](//www.lop67.tk/verify){: target="_blank"}
-2. Bấm n&uacute;t đăng nhập bằng t&agrave;i khoản Facebook hoặc Google.
-3. L&agrave;m theo hướng dẫn tr&ecirc;n m&agrave;n h&igrave;nh.
-4. Kết quả sẽ hiện ra, nếu x&aacute;c nhận th&agrave;nh c&ocirc;ng bạn sẽ thấy trạng th&aacute;i t&agrave;i khoản l&agrave; **đ&atilde; x&aacute;c nhận.**
+Ngay sau đó, sẽ có đoạn mã xuất hiện trên màn hình.
+Rồi bạn chỉ cần nhập đoạn mã vào khung yêu cầu nhập **Mã xác thực Authy** tại trang đăng nhập để có thể đăng nhập tài khoản.
 
+## Vô hiệu hóa
+Để vô hiệu hóa/ngưng kích hoạt việc xác thực hai lớp trên tài khoản, tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth){: target="_blank"}.
+
+Sau đó, bấm nút vô hiệu hóa và như vậy là bạn đã hủy kích hoạt xác thực hai lớp thành công. Lưu ý rằng bạn cũng có thể kích hoạt lại bất cứ lúc nào bạn muốn.
 #
