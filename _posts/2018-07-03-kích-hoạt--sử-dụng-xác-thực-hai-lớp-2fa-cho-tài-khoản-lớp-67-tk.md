@@ -16,8 +16,9 @@ X&aacute;c thực hai lớp (2FA - Two Factor Authorization) l&agrave; một bi�
 ## Kích hoạt
 Trước khi kích hoạt xác thực hai lớp, bạn cần tải ứng dụng Authy lên thiết bị mà bạn muốn nhận mã, có thể là điện thoại hoặc máy tính của bạn. Tải Authy cho các nền tảng:
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/capture-7.PNG)
-
+[![Chrome](/uploads/chrome-web-store-1-1.png)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
+[![Android](/uploads/google-play.png)](https://play.google.com/store/apps/details?id=com.authy.authy)
+[![iOS](/uploads/app-store.png)](https://itunes.apple.com/us/app/authy/id494168017)
 Sau khi tải xong, bạn tiến hành các bước đăng ký tài khoản Authy.
 
 Một khi đã đăng ký thành công Authy, bạn đã sẵn sàng để kích hoạt xác thực hai lớp. Tại trang chủ, bấm vào mục **Cập nhật hồ sơ**, chọn tab **Thông tin đăng nhập** và xuống phần **Xác thực hai lớp**. Hoặc bạn có thể truy cập [Tại đây](//www.lop67.tk/taikhoan/profile#auth){: target="_blank"}.
